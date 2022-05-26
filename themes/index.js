@@ -360,6 +360,12 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
+  },
+  portfolio: {
+    title_color: "ff0000",
+    icon_color: "950101",
+    text_color: "3d0000",
+    bg_color: "302c3c",
   }
 };
 
