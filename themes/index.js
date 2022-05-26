@@ -297,7 +297,7 @@ const themes = {
   portfolio: {
     title_color: "ff0000",
     icon_color: "950101",
-    text_color: "3d0000",
+    text_color: "ffffff",
     bg_color: "302c3c",
   }
 };
